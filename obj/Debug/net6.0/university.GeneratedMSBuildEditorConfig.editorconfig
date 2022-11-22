@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = university
 build_property.RootNamespace = university
-build_property.ProjectDir = /home/mark/dev/default/enterprise/university/
+build_property.ProjectDir = /home/mark/dev/default/enterprise/university_webapp/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/mark/dev/default/enterprise/university
+build_property.MSBuildProjectDirectory = /home/mark/dev/default/enterprise/university_webapp
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/mark/dev/default/enterprise/university/Views/HelloWorld/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9JbmRleC5jc2h0bWw=
+[/home/mark/dev/default/enterprise/university_webapp/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/HelloWorld/Welcome.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGVsbG9Xb3JsZC9XZWxjb21lLmNzaHRtbA==
+[/home/mark/dev/default/enterprise/university_webapp/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Home/Index.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Home/Privacy.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Shared/Error.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Students/Create.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Students/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Students/Delete.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Students/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Students/Details.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Students/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Students/Edit.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Students/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Students/Index.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Students/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/_ViewImports.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/_ViewStart.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/mark/dev/default/enterprise/university/Views/Shared/_Layout.cshtml]
+[/home/mark/dev/default/enterprise/university_webapp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4q9kc3tok2

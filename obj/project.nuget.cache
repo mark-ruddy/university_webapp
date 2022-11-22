@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yPOdO3vge/B95J8wdIVBC4T5CZ5JQJEV1dkiJLmybXXVgpilcUcYZGcrRpTBirWvWYJKYF7urB5G4gIiGAQ83g==",
+  "dgSpecHash": "oa4V1BtC4ypFvvX0DKUKd7TSrrFBAfUBPeRWnXyZZusuTmXfXlV9yMhhgMjRFg+KW+kVCGJNmfK0xLULxjlLEw==",
   "success": true,
-  "projectFilePath": "/home/mark/dev/default/enterprise/university/university.csproj",
+  "projectFilePath": "/home/mark/dev/default/enterprise/university_webapp/university.csproj",
   "expectedPackageFiles": [
     "/home/mark/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/mark/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

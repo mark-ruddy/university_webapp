@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mark/dev/default/enterprise/university/university.csproj": {}
+    "/home/mark/dev/default/enterprise/university_webapp/university.csproj": {}
   },
   "projects": {
-    "/home/mark/dev/default/enterprise/university/university.csproj": {
+    "/home/mark/dev/default/enterprise/university_webapp/university.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mark/dev/default/enterprise/university/university.csproj",
+        "projectUniqueName": "/home/mark/dev/default/enterprise/university_webapp/university.csproj",
         "projectName": "university",
-        "projectPath": "/home/mark/dev/default/enterprise/university/university.csproj",
+        "projectPath": "/home/mark/dev/default/enterprise/university_webapp/university.csproj",
         "packagesPath": "/home/mark/.nuget/packages/",
-        "outputPath": "/home/mark/dev/default/enterprise/university/obj/",
+        "outputPath": "/home/mark/dev/default/enterprise/university_webapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mark/.nuget/NuGet/NuGet.Config"
